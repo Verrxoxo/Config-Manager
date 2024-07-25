@@ -1,0 +1,4 @@
+2024-05-13 16:20:10.106 +02:00 [INF] Starting Log File Manager
+2024-05-13 16:21:56.928 +02:00 [INF] Starting Log File Manager
+2024-05-13 16:22:31.439 +02:00 [INF] Starting Log File Manager
+2024-05-13 16:23:00.219 +02:00 [INF] Starting Log File Manager
